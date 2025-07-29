@@ -6550,13 +6550,14 @@ input[type=submit]:focus {
 }
 .about-section .about-inner .about-image {
   position: relative;
-  background-image: url(assets/img/plumbero-img16.jpg);
+  background-image: url('assets/my-images/IMG-20250729-WA0006.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   min-height: 540px;
   overflow: hidden;
 }
+
 @media screen and (max-width: 767px) {
   .about-section .about-inner .about-image {
     min-height: 400px;
@@ -11581,7 +11582,7 @@ product slider range for price css
 .contact-page-section .contact-form-wrapper .contact-image-info {
   position: relative;
   margin: 50px 0;
-  background-image: url(assets/img/plumbero-img25.jpg);
+  background-image: url('assets/video/polyurethane-waterproofing-1516442755-3595432.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
